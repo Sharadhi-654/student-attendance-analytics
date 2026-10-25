@@ -1,0 +1,4 @@
+status,attendance_pct,present,absent
+Critical,49.875,170,168
+Safe,94.08695652173913,223,14
+Warning,81.42857142857143,61,14
